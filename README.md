@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sachitha-dharshana
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning ReactJS and NextJS
-- 💞️ I’m looking to collaborate on Information Technology projects
+- 👋 Hi, I’m Sachitha, a self-learnt passionate Front End Developer
+- 👀 I’m interested in HTML, CSS, JS, PHP, WordPress and Bootstrap
+- 🌱 I’m currently learning React.js and Next.js
+- 💞️ I’m looking to collaborate on information technology and services industry
 - 📫 Reach me: sachitha.dharshana@gmail.com
 
 <!---
