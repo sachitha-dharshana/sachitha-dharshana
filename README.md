@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything on Front End Development 🤣
 - 👯 I’m looking to dedicate my time, effort and skills for innovative ideas
 - 🥅 Upcoming Goals: Expand my skillset and knowledgebase on the road to becoming a passionate coder
-- ⚡ Fun fact: I love to watch moves & series / play Dota 2
+- ⚡ Fun fact: I love to watch moves & series / former Dota 2 player
 
 ### Spotify Playing 🎧
 
