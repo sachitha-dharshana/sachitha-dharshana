@@ -1,6 +1,6 @@
 ### Hi there, I'm Sachitha Dharshana - aka [SD][website] 👋
 
-## I'm a Human, Self-Taught Developer, and a Growth Hacker!!
+## I'm a Human, Self-Taught Developer, and a Front-end enthusiast!!
 
 - 🔭 I'm working on revamping my new portfolio website: [Passionate Front End Developer!][portfolio]!
 - 🌱 I’m currently learning everything on Front End Development 🤣
