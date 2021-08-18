@@ -10,11 +10,10 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=554ef5ef60e745a5)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=554ef5ef60e745a5)
 
 ### Connect with me:
 
-[<img align="left" alt="SD" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="SD | Google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/google.svg" />][google]
 [<img align="left" alt="SD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SD | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
