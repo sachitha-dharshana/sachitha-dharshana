@@ -2,7 +2,7 @@
 
 ## I'm a Human, Self-Taught Developer, and a Front-end enthusiast!!
 
-- 🔭 I'm working on revamping my new portfolio website: [Passionate Front End Developer!][portfolio]!
+- 🔭 I'm working on acquiring full stack skills!
 - 🌱 I’m currently learning everything on Front End Development 🤣
 - 👯 I’m looking to dedicate my time, effort and skills for innovative ideas
 - 🥅 Upcoming Goals: Expand my skillset and knowledgebase on the road to becoming a passionate coder
