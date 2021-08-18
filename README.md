@@ -1,4 +1,4 @@
-### Hi there, I'm Sachitha Dharshana - aka [SD][website] 👋
+### Hi there, I'm Sachitha Dharshana - aka [SD] 👋
 
 ## I'm a Human, Self-Taught Developer, and a Front-end enthusiast!!
 
