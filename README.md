@@ -3,10 +3,10 @@
 ## I'm a Human, Self-Taught Developer, and a Front-end enthusiast!!
 
 - 🔭 I'm working on acquiring full stack skills!
-- 🌱 I’m currently learning everything on Front End Development 🤣
+- 🌱 I’m currently learning major FE frameworks
 - 👯 I’m looking to dedicate my time, effort and skills for innovative ideas
-- 🥅 Upcoming Goals: Expand my skillset and knowledgebase on the road to becoming a passionate coder
-- ⚡ Fun fact: I love to watch moves & series / former Dota 2 player
+- 🥅 Upcoming Goals: Expand my skillset and knowledgebase on the road to becoming a passionate Software Engineer
+- ⚡ Fun fact: I love to watch moves & series / hitting the gym
 
 ### Spotify Playing 🎧
 
