@@ -8,11 +8,12 @@
 - 🥅 Upcoming Goals: Expand my skillset and knowledgebase on the road to becoming a passionate Software Engineer
 - ⚡ Fun fact: I love to watch moves & series / hitting the gym
 
-### Spotify Playing 🎧
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachitha-dharshana&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=554ef5ef60e745a5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachitha-dharshana&layout=compact&theme=vision-friendly-dark)](https://github.com/sachitha-dharshana/github-readme-stats)
 
-### Connect with me:
+### 🚀 Connect with me:
 
 [<img align="left" alt="SD | Google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/google.svg" />][google]
 [<img align="left" alt="SD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -20,7 +21,7 @@
 
 <br />
 
-### Languages and Tools:
+### :hammer_and_wrench: Languages and Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
